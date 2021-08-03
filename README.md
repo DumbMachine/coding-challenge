@@ -44,3 +44,4 @@ Please don't stress if your solution isn't perfect. With a timebox of at most 2 
 you most likely won't be able to check all the boxes above. This challenge is intended as an 
 exercise in tradeoffs. We want to understand how you view the overall value and lifecycle
 of software.
+
